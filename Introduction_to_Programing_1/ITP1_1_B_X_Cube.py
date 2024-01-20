@@ -1,4 +1,4 @@
-## ITP1_1_A_Hello World.py: Coded by Kinya MIURA, 240119
+## ITP1_1_B_X_Cube.py: Coded by Kinya MIURA, 240119
 
 xx, = map(int, input().split())
 
