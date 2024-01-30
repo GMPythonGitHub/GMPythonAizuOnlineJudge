@@ -1,4 +1,5 @@
-## ITP1_3_B_Print_Test_Cases.py: Coded by Kinya MIURA, 240119
+## ITP1_3_B-Print_Test_Cases.py: Coded by Kinya MIURA, 240119
+## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_B
 
 ii = 0
 while True:
