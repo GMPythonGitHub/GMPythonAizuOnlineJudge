@@ -1,4 +1,4 @@
-## ITP1_5_A-Draw_Rectangle.py: Coded by Kinya MIURA, 240130
+## ITP1_5_A-Print_a_Rectangle.py: Coded by Kinya MIURA, 240130
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_5_A
 
 while True:
