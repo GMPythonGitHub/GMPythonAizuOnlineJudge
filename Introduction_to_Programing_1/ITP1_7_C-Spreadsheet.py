@@ -6,6 +6,19 @@ mm = [list(map(int, input().split())) for _ in range(r)]
 
 ss = [0 for _ in range(c+1)]
 for mmi in mm:
+    mmi.append(sum(mmi))
+    print(*mmi)
+    for ii, mmii in enumerate(mmi):
+        ss[ii] += mmii
+print(*ss)
+
+
+'''
+r, c = map(int, input().split())
+mm = [list(map(int, input().split())) for _ in range(r)]
+
+ss = [0 for _ in range(c+1)]
+for mmi in mm:
     for ii, mmii in enumerate(mmi):
         print(mmii, end=' ')
         ss[ii] += mmii
@@ -14,9 +27,5 @@ for mmi in mm:
 for ssi in ss[:c]:
     print(ssi, end=' ')
 print(ss[c])
-
-
-'''
-
 '''
 

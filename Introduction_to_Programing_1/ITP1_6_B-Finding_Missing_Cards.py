@@ -18,7 +18,6 @@ for sti in ['S', 'H', 'C', 'D']:
             print(sti, ii)
 
 
-
 '''
 
 '''

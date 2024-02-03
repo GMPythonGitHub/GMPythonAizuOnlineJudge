@@ -4,15 +4,18 @@
 n, = map(int, input().split())
 a =  list(input().split())
 
+print(*reversed(a))
+
+
+'''
+n, = map(int, input().split())
+a =  list(input().split())
+
 for ii, ai in enumerate(reversed(a)):
     if ii == 0:
        print(ai, end='')
     else:
        print(' '+ai, end='')
 print()
-
-
-'''
-
 '''
 

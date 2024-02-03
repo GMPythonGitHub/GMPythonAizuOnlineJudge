@@ -1,7 +1,5 @@
 ## ITP1_6_C-Official_House.py: Coded by Kinya MIURA, 240203
-## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C
-
-from collections import defaultdict
+## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_D
 
 n, = map(int, input().split())
 
@@ -18,7 +16,6 @@ for bbi in range(4):
         print()
     if bbi < 4-1:
         print('#'*20)
-
 
 
 '''
