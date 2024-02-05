@@ -1,5 +1,6 @@
 ## ITP1_6_B-Finding_Missing_Cards.py: Coded by Kinya MIURA, 240203
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_B
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_6_C
 
 from collections import defaultdict
 

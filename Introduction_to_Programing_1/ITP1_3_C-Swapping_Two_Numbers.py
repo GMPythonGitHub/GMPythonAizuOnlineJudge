@@ -1,5 +1,6 @@
 ## ITP1_3_C-Swapping_Two_Numbers.py: Coded by Kinya MIURA, 240130
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_3_C
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_3_C
 
 while True:
     xx, yy = map(int, input().split())

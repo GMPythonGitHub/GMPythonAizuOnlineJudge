@@ -1,5 +1,6 @@
 ## ITP1_8_A-Toggling_Cases.py: Coded by Kinya MIURA, 240203
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_8_A
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_8_A
 
 x = input()
 

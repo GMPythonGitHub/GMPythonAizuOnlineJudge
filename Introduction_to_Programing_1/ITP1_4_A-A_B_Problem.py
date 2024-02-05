@@ -1,5 +1,6 @@
 ## ITP1_4_A-A_B_Problem.py: Coded by Kinya MIURA, 240130
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_4_A
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_4_A
 
 aa, bb = map(int, input().split())
 

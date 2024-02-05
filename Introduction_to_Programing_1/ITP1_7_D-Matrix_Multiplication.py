@@ -1,5 +1,6 @@
 ## ITP1_7_D-Matrix_Multiplication.py: Coded by Kinya MIURA, 240203
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_D
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_7_D
 
 n, m, l = map(int, input().split())
 

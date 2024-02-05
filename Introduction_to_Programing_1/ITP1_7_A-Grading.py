@@ -1,5 +1,6 @@
 ## ITP1_7_A-Grading.py: Coded by Kinya MIURA, 240203
 ## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_7_A
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_7_A
 
 while True:
     m, f, r = map(int, input().split())

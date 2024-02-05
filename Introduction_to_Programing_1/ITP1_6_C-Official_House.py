@@ -1,5 +1,6 @@
 ## ITP1_6_C-Official_House.py: Coded by Kinya MIURA, 240203
-## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_D
+## ::https://judge.u-aizu.ac.jp/onlinejudge/description.jsp?id=ITP1_6_C
+## :: https://onlinejudge.u-aizu.ac.jp/courses/lesson/2/ITP1/9/ITP1_6_C
 
 n, = map(int, input().split())
 
